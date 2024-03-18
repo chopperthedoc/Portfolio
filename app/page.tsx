@@ -7,13 +7,13 @@ import Hero from "@/components/Hero";
 export default function Home() {
   return (
     <>
-      <Hero />
+      <Hero id="hero" />
       <hr className="my-2 border-t border-white" />
       <AboutMe id="about-me" />
 
       <Skills id="skills" />
 
-      <Projects />
+      <Projects id="projects" />
     </>
   );
 }
