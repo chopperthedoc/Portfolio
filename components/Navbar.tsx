@@ -60,7 +60,7 @@ const Navbar = () => {
         />
       </div>
       <ul
-        className={`flex gap-8 font-mono ${
+        className={`flex gap-8 font-mono ${isMenuOpen ? "pl-3" : "pl-0"} ${
           isMenuOpen ? "flex" : "hidden lg:flex"
         }`}
       >

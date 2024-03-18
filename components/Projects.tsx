@@ -92,7 +92,7 @@ const Projects: React.FC<ProjectProps> = ({ id }) => {
                   Website
                 </a>
               </div>
-              <h2 className="font-bold text-center pb-2 text-xl font-mono Menlo flex-1 ">
+              <h2 className="font-bold text-center pb-2 text-xl font-mono Menlo flex-1 pl-2 ">
                 {selectedProjectDetails?.title}
               </h2>
               <div className="w-[60px]">
