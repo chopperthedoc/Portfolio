@@ -10,9 +10,7 @@ export default function Home() {
       <Hero id="hero" />
       <hr className="my-2 border-t border-white" />
       <AboutMe id="about-me" />
-
       <Skills id="skills" />
-
       <Projects id="projects" />
     </>
   );

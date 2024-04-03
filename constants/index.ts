@@ -3,7 +3,7 @@ export const NAV_LINKS = [
   { href: "#hero", key: "hero", label: "Home" },
   { href: "#about-me", key: "about", label: "About me" },
   { href: "#skills", key: "skills", label: "Skills" },
-  { href: "#projects", key: "projects", label: "Projekte" },
+  { href: "#projects", key: "projects", label: "Projects" },
 ];
 
 // CAMP SECTION

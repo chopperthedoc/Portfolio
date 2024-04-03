@@ -25,12 +25,7 @@ function Footer() {
         href="https://www.linkedin.com/in/yourusername"
         target="_blank"
         rel="noopener noreferrer"
-      >
-        <FaLinkedin
-          size={45}
-          className="transition-transform hover:scale-110"
-        />
-      </Link>
+      ></Link>
     </footer>
   );
 }

@@ -56,7 +56,7 @@ const Projects: React.FC<ProjectProps> = ({ id }) => {
   return (
     <div id={id} className="max-w-4xl mx-auto">
       <h2 className="text-3xl font-bold my-4 font-mono Menlo pb-3 text-center">
-        Projekte
+        Projects
       </h2>
       <div className="flex flex-col lg:flex-row items-center">
         <div className="flex flex-col lg:flex-row w-full">
